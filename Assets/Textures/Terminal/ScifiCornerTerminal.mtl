@@ -1,0 +1,58 @@
+# Blender MTL File: 'ScifiCornerTerminal.blend'
+# Material Count: 4
+
+newmtl Material
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd ScifiCornerTerminal-Diff.png
+map_Bump Scifi Conrner Terminal-Nor.png
+map_Ke ScifiCornerTerminal-Emit.png
+map_Ns ScifiCornerTerminal-Diff.png
+
+newmtl Material_ScifiCornerTerminal-Emit.png
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd ScifiCornerTerminal-Emit.png
+map_Bump Scifi Conrner Terminal-Nor.png
+map_Ke ScifiCornerTerminal-Emit.png
+map_Ns ScifiCornerTerminal-Diff.png
+
+newmtl Monitors
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd MonitorScreen.png
+map_Ke Terminals.png
+map_Ks Terminals.png
+map_Ns Terminals.png
+
+newmtl Monitors_Monitor
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Terminals.png
+map_Ke Terminals.png
+map_Ks Terminals.png
+map_Ns Terminals.png
